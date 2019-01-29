@@ -1,0 +1,2 @@
+created in master branch
+what will happen in merge?
