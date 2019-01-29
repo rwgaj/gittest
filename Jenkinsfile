@@ -20,11 +20,5 @@ pipeline {
         sh 'mvn test'
       }
     }
-    stage('Deliver') {
-      steps {
-        sh '''docker build -t frontend . docker rm -f angular || true
-docker run -d -p 8000:80 --name angular frontend'''
-      }
-    }
   }
 }
