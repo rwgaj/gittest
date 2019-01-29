@@ -1,6 +1,0 @@
-# Ignore files starting with a dot ('.')
-.*
-#Ignore bin/ folder
-bin/
-# Don't ignore .gitignore itself ^^
-!/.gitignore
