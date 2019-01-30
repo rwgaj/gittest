@@ -1,4 +1,5 @@
 Test-Projekt zum Umgang mit Git:
 
-Hi Paddy :)
+Josh: Hi Paddy :)
 
+Paddi: Sers :D
