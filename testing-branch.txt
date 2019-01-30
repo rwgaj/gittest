@@ -2,6 +2,8 @@ this is file of testing branch (that differs in master now + completely new cont
 with new line at end of document (curious)
 
 
-LETS MAKE SOME CHANGES
+1.) LETS MAKE SOME CHANGES
 
-SOME MORE CHANGES
+2.) SOME MORE CHANGES (Jenkins was offline when I pushed this)
+
+3.) BUT IT STILL UPDATED AFTER STARTING JENKINS AGAIN :D (3rd change test now)
