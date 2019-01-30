@@ -1,7 +1,4 @@
 Test-Projekt zum Umgang mit Git:
 
-Josh: Hi Paddy :)
+Test: Sign commit with GPG key
 
-Paddi: Sers :D
-
-was geht?
