@@ -1,4 +1,4 @@
 Test-Projekt zum Umgang mit Git:
 
-Test: deploy to mvn-repo branch
+Test: Deploy into branch mvn-repo works now?!
 
