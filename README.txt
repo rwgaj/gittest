@@ -4,3 +4,4 @@ Test: Deploy into branch mvn-repo works now?!
 
 Test: Will mal zum Testen eine Änderung vornehmen weil ich wissen will, ob Mitwirkende den Master-Branch ohne die Bestätigung des Repo-Besitzers einfach ändern können. 
 Test-Durchführung beendet: Mitwirkende können direkt im Master commiten. Kann man das abschalten?
+- Edit: Der Branch muss public sein um die Branch Protection Rules aktivieren zu können (außer man upgraded zu Pro).
